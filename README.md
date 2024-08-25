@@ -17,7 +17,12 @@ A responsive contact form that allows users to send messages via email. This for
 - JavaScript (for form submission and validation)
 - Font Awesome & Material Icons (for form icons)
 
-Replace `C:\Users\dell\Desktop\Contact-Form\contact-form-screenshot.png` with the actual path to your screenshot in the repository. For example, if your screenshot is named `contact-form-screenshot.png` and is located in the root of your repository, the path would be `contact-form-screenshot.png`.
+
+## Screenshot
+
+![screen](https://github.com/user-attachments/assets/1acab6e7-bfaa-4eca-bb07-1e08a7d78d95)
+
+
 
 ## How to Use
 
